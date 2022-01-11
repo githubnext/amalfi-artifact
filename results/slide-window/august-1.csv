@@ -1,0 +1,23 @@
+package,version,hash,package@version,reproducible,analysis,decision-tree,naive-bayes,svm,hash_classifier
+@bettercorp/service-base-plugin-log-gelf,1.1.20210701170037,5623dd7e07831664619f4ec175b88a8d,@bettercorp/service-base-plugin-log-gelf@1.1.20210701170037,no,benign,No,No,Yes,No
+@cpmech/mdxcode,0.1.0,0e28c6e57b0680836890f566d76c108b,@cpmech/mdxcode@0.1.0,yes,benign,No,Yes,No,No
+@firstdorsal/init,1.0.0,7e811a8fe5432028585a2fc641348a2e,@firstdorsal/init@1.0.0,yes,benign,Yes,No,No,No
+@omniblack/error,0.0.3,049610c5bff799155e42696c721b1449,@omniblack/error@0.0.3,no,benign,Yes,No,No,No
+@raza.datascientist/package,1.0.0,2c9b08e1dbaaf8859064b34183ea2e8c,@raza.datascientist/package@1.0.0,no,benign,No,No,Yes,No
+@sonia-corporation/ngx-achievements,1.0.0,d524cb79551d74c49e7ce9021d8e3785,@sonia-corporation/ngx-achievements@1.0.0,yes,benign,No,Yes,No,No
+@typescript-eslint/scope-manager,4.28.6-alpha.11,0d534f2f5b7b64009bec17a8f7959725,@typescript-eslint/scope-manager@4.28.6-alpha.11,no,benign,No,No,Yes,No
+@typescript-eslint/types,4.28.6-alpha.11,78243fbcd37e7f22c3530466675e73bc,@typescript-eslint/types@4.28.6-alpha.11,no,benign,No,No,Yes,No
+@typescript-eslint/types,4.28.6-alpha.26,10e07212758170b8c47e4f55ec3bb953,@typescript-eslint/types@4.28.6-alpha.26,no,benign,No,No,Yes,No
+@typescript-eslint/visitor-keys,4.28.6-alpha.11,fdbee2a976a8ed02c9dd62f0a5df4f7b,@typescript-eslint/visitor-keys@4.28.6-alpha.11,no,benign,No,No,Yes,No
+@typescript-eslint/visitor-keys,4.28.6-alpha.26,652a34449911bfc1419decf0fc1953e9,@typescript-eslint/visitor-keys@4.28.6-alpha.26,no,benign,No,No,Yes,No
+@zoot-ai/widget,0.1.43,dd4af91be97c7322a6b1210e71f869d7,@zoot-ai/widget@0.1.43,no,benign,No,No,Yes,No
+@zoot-ai/widget,0.1.44,be3ce2194e4434f163cdfa36bf370570,@zoot-ai/widget@0.1.44,no,benign,No,No,Yes,No
+axeri-ember,0.0.1,03f2799f7e2777ad256a7935d8e175bb,axeri-ember@0.0.1,no,benign,No,Yes,No,No
+bot-template-sale,1.0.0,89826f22bac1f62f98da2cfd52dfb315,bot-template-sale@1.0.0,no,benign,No,No,Yes,No
+dsr-package-sense-yapok,1.0.1,26bdb1356421b04c2a136c9f7ce9bdf7,dsr-package-sense-yapok@1.0.1,no,benign,No,No,Yes,No
+elm-pages,2.0.1,6cda1ba4bc529aa93831d9be4b6e2579,elm-pages@2.0.1,yes,benign,Yes,No,No,No
+marcom,1.0.0,9b5b1594bfea8c3927c45ee9e2b42da9,marcom@1.0.0,no,malicious,Yes,Yes,No,No
+nodemod,3.0.0-rc.6,f645f7177815e4132a1107ee34473ec3,nodemod@3.0.0-rc.6,no,benign,Yes,No,Yes,No
+react-simple-side-effects,0.0.13,N/A,react-simple-side-effects@0.0.13,not found in npm,"not found in npm (Aug, 17)",Yes,No,No,No
+saisem3personal,1.0.0,a31a21e464fd6def016fc656502fb2b6,saisem3personal@1.0.0,no,benign,No,No,Yes,No
+woowahan-jsx,1.0.81,4f7d0f4cca272efbded7d74b8a4aecde,woowahan-jsx@1.0.81,no,benign,Yes,No,No,No
