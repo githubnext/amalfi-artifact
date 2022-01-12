@@ -16,8 +16,7 @@ The repository consists of three directories, whose contents are explained below
   - Column **analysis** contains the malicious status of a particular update, i.e., whether it is malicious or benign. The 'not triaged' cases refer to instances 
     where the contents of the package update have not been investigated. 
  
- The whole 'data' directory takes 8.3 MB of space. Because the data used in our dataset contains malicious and harmful code, we are not able to release the contents
- of the package updates. 
+  The whole 'data' directory takes 8.3 MB of space. Because the data used in our dataset contains malicious and harmful code, we are not able to release the           contents of the package updates. 
  
  - 'results' directory: 
    This directory contains the results from the above-mentioned sets of experiments. We ran three different classifiers, a decision tree, Naive Bayes, and 
