@@ -34,5 +34,8 @@ The repository consists of three directories, whose contents are explained below
       the classifiers (decision-tree, naive-bayes, svm, hash) has labeled it as malicious. 
       
    This directory takes 590KB of space. 
-  
+ 
+ - 'training-code' directory: 
+    This directory contains the code we used to train our models based on the three ML classifiers we used. The main code is a python script named        train_classifier.py that takes up to 14 arguments. The format and meaning of aach argument is described in the code itself (lines 193-223). 
+    
   
